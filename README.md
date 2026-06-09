@@ -1,9 +1,8 @@
-# Test-Tasks-ArtExtract-HumanAI-
-Here are the 2 test tasks that were asked to perform to be able to draft a proposal for HumanAI's ArtExtract project
 
 
 
-# TASK1: Convolutional-Recurrent Architectures
+
+#1: Convolutional-Recurrent Architectures
 ArtGAN Dataset: https://github.com/cs-chan/ArtGAN/blob/master/WikiArt%20Dataset/README.md
 
 To do: a model based on convolutional-recurrent architectures for classifying Style, Artist, Genre, and other attributes. General and Specific. Pick the most appropriate approach and discuss your strategy. discuss which evaluation metrics you are using to evaluate your model performance. Find outliers, e.g. paintings that do not fit a particular artist or genre despite their assignment.
@@ -56,7 +55,7 @@ To do: a model based on convolutional-recurrent architectures for classifying St
 - Add data augmentation
 - Train for more epochs with learning rate scheduling
 
-# Task 2: Painting Similarity Search (National Gallery of Art)
+#2: Painting Similarity Search (National Gallery of Art)
 To do: Build a model to find similarities in paintings, e.g. portraits with a similar face or pose.. Pick the most appropriate approach and discuss your strategy
 
 Dataset: https://github.com/NationalGalleryOfArt/opendata
