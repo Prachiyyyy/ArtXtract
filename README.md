@@ -55,7 +55,7 @@ To do: a model based on convolutional-recurrent architectures for classifying St
 - Add data augmentation
 - Train for more epochs with learning rate scheduling
 
-#2: Painting Similarity Search (National Gallery of Art)
+# 2: Painting Similarity Search (National Gallery of Art)
 To do: Build a model to find similarities in paintings, e.g. portraits with a similar face or pose.. Pick the most appropriate approach and discuss your strategy
 
 Dataset: https://github.com/NationalGalleryOfArt/opendata
